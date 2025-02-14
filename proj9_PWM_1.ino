@@ -1,5 +1,3 @@
-//Użycie sygnału PWM do uruchomienia buzzera z wybraną częstotliwością
-
 #include <avr/io.h>
 #include <util/delay.h>
 #include <string.h>
